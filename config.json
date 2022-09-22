@@ -1,0 +1,21 @@
+{
+    "token": "BOT_TOKEN", 
+    "tickets": {
+        "partner_cat": "CAT_1",
+        "algemeen_cat": "CAT_2",
+        "tech_cat": "CAT_3",
+        "sales_cat": "CAT_4", 
+        "support": "SUPPORT_ROLE_ID",
+        "logs": "LOGS_CHANNEL_ID",
+        "ALERT": "IF YOU CHANGE DE CAT NAME YOU NEED TO CHANGE IN THE EVENT FILE ALSO THE CAT NAME."
+    },
+
+    "embeds": {
+        "Color": "#e03c37"
+    },
+
+    "titles": {
+        "succes": "✅▕▏succes",
+        "error": "❌▕▏error"
+    }
+}
